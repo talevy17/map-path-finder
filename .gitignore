@@ -1,5 +1,8 @@
-db/
-docs/
-results/
-venv/
+.db/
+.docs/
+.results/
 stats.py.bak
+venv/
+.idea/
+__pycache__/
+.DS_Store
